@@ -1,0 +1,9 @@
+baseURL = "https://junki555.github.io/"
+languageCode = "ja-jp"
+weight = 1
+title = "YoloEngg"
+publishDir = "public"
+theme = "hyde-hyde"
+hasCJKLanguage = true
+paginate = 10
+paginatePath = "page"
