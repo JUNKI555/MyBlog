@@ -7,3 +7,9 @@ theme = "hyde-hyde"
 hasCJKLanguage = true
 paginate = 10
 paginatePath = "page"
+
+[author]
+	name = "junki555"
+
+[params]
+  layoutReverse = true
