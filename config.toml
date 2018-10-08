@@ -1,3 +1,4 @@
+## Basic Configuration
 baseURL = "https://junki555.github.io/"
 languageCode = "ja-jp"
 weight = 1
@@ -8,12 +9,35 @@ hasCJKLanguage = true
 paginate = 10
 paginatePath = "page"
 
-[author]
-	name = "junki555"
-
+## Site Settings
 [params]
+	author = "junki555"
+	authorimage = "/img/junki555.png"
+	description = "programming,lifehack and vape"
+	dateformat = "Jan 2, 2006"
+	highlightjs = true
+	highlightjsstyle = "Hybrid"
 	layoutReverse = true
+#	themeColor = "theme-base-09"
 
+## Social Accounts
 [params.social]
   	twitter = "JUNKI555"
   	github = "JUNKI555"
+
+## Main Menu
+#[[menu.main]]
+#    name = "About"
+#    identifier = "about"
+#    weight = 100
+#    url = "/about/"
+#[[menu.main]]
+#    name = "Posts"
+#    weight = 200
+#    identifier = "posts"
+#    url = "/posts/"
+#[[menu.main]]
+#    name = "Portfolio"
+#    identifier = "portfolio"
+#    weight = 300
+#    url = "/portfolio/"
