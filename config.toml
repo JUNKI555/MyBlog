@@ -12,4 +12,8 @@ paginatePath = "page"
 	name = "junki555"
 
 [params]
-  layoutReverse = true
+	layoutReverse = true
+
+[params.social]
+  	twitter = "JUNKI555"
+  	github = "JUNKI555"
