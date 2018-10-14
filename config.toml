@@ -13,7 +13,7 @@ paginatePath = "page"
 [params]
 	author = "junki555"
 	authorimage = "/img/junki555.png"
-	description = "programming,lifehack and vape"
+	description = "programming, lifehack and vape"
 	dateformat = "Jan 2, 2006"
 	highlightjs = true
 	highlightjsstyle = "Hybrid"
